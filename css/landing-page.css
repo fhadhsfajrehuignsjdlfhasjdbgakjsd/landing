@@ -5,17 +5,14 @@
  */
 
 body {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
+  font-family: 'Jost', sans-serif;
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-family: 'Jost', sans-serif;
 }
 
 header.masthead {
@@ -85,6 +82,12 @@ header.masthead h1 {
 
 .features-icons .features-icons-item:hover .features-icons-icon i {
   font-size: 5rem;
+}
+
+.far .fas{
+  color: #1976D2;
+  background-color: #1976D2;
+  text-color: #1976D2;
 }
 
 .testimonials {
